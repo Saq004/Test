@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-
+//3
 namespace Algoritm
 {
    public abstract class baseclass
